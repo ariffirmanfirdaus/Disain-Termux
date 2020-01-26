@@ -1,4 +1,3 @@
-nano .bashrc
 clear
 cowsay -f eyes 'wellcom to My Script
 
